@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Cepro912
-- 👀 I’m interested in trading 
-- 🌱 I’m currently learning to create an LSTM PSO EMD trading bot 
-- 💞️ I’m looking to collaborate on this project 
-- 📫 @0xwaverider on Discord 
+- 👋 Hi, I’m @Cepro912 founder of @DEFNOISE-AI
+- 👀 I’m interested in everythings that stimulates me.
+
 
 
 <!---
